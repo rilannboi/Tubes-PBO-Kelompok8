@@ -16,5 +16,5 @@ echo "9. 1 liter susu cair full cream";
 echo "10. 200 ml kental manis";
 echo "11. 100 ml air gula";
 echo "12. 1/2 buah nanas";
-echo "11. 1 sdt perisa leci";
-echo "es batu secukupnya";
+echo "13. 1 sdt perisa leci";
+echo "14. es batu secukupnya";
