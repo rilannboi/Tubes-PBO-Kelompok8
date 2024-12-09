@@ -18,3 +18,9 @@ echo "11. 100 ml air gula";
 echo "12. 1/2 buah nanas";
 echo "13. 1 sdt perisa leci";
 echo "14. es batu secukupnya";
+
+//rizqidsb
+echo "Siapkan mangkuk saji besar,
+   masukkan semangka, melon, dan apel, stroberi. Tambahkan nangka, leci, dan biji selasih ke dalam mangkuk saji
+  Tambahkan es batu, air gula, susu kental manis, dan perisa leci. 
+  Tuang susu cair ke dalam mangkuk saji dan aduk hingga tercampur rata. Terakhir, hidangkan dalam gelas saji.";
